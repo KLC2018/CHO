@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ae8f5c37-181d-44af-b54d-ed563f48e41f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Q2.py</StartupFile>
+    <StartupFile>Q3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="Q1.py" />
     <Compile Include="Q2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Q3.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
